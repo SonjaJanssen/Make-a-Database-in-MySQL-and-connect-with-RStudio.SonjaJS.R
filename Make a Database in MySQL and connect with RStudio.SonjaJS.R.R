@@ -1,7 +1,7 @@
 ###-------------------------------------------------------------------------------------###
-  ##               How to make a database in MySQL with Rstudio
+  ##               Database in MySQL SQL server with Rstudio
 
-## Code script by SonjaJS
+## Code script by Sonja Janssen-Sahebzad
   ## Download MySQL and connect with my RStudio version 4.2.3 
   ## I am using Windows 11
   ## Date: 25 March 2023
