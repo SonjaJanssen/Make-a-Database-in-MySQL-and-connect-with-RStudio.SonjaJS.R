@@ -8,7 +8,7 @@
 
   ## All Codes tested by SonjaJs: All codes are ok
   ## Step by step approach
-
+## Purpose: Downloading stock data, formatting it, and then storing it in a MySQL database. 
 
 ###-------------------------------------------------------------------------------------###
 1. Establish a MySQL Connection
