@@ -29,3 +29,23 @@ Establish a connection to the MySQL database named "data" on the localhost serve
 
 ODBC: Open Database Connectivity. It's a standard application programming interface (API) for interacting with databases.
 con: Database connection object created using ODBC. It connects to a MySQL database named "data" on the local server.
+
+Vertaling:
+# MySQL Database Setup met RStudio
+
+## Over
+Dit script, geschreven door Sonja Janssen-Sahebzad, vergemakkelijkt de integratie van MySQL en RStudio versie 4.2.3 op het Windows 11-platform.
+
+## Kwaliteitsborging
+Voor optimale betrouwbaarheid hebben alle codes grondige tests ondergaan, wat vertrouwen geeft in hun optimale functionaliteit.
+
+## Procedure Overzicht
+### Doel
+Het belangrijkste doel is om efficiënt financiële gegevens te downloaden, de benodigde opmaak uit te voeren en deze systematisch op te slaan in een MySQL-database.
+
+### Belangrijke Stappen
+1. **MySQL Installatie:** Voer het proces uit voor het verkrijgen en installeren van MySQL.
+2. **RStudio Verbinding:** Leg een naadloze verbinding tussen RStudio versie 4.2.3 en MySQL.
+3. **Platform Compatibiliteit:** Afgestemd op een vlekkeloze werking binnen de Windows 11-omgeving.
+
+Voel je vrij om het gedetailleerde script te verkennen voor een dieper begrip van elke stap.
