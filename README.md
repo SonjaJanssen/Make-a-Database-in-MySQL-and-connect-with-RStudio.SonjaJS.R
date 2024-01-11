@@ -18,10 +18,6 @@ This script is designed to download stock data, format it, and store it in a MyS
 ###-------------------------------------------------------------------------------------###
 install.packages("odbc"); require("odbc")
 
-con <- dbConnect(odbc::odbc(), 
-                 .connection_string = "Driver={MySQL ODBC 8.0 Unicode Driver};", 
-                 Server= "localhost", Database = "data", UID = "root", PWD = .., Port= 3306)
-
 Explanation:
 
 Install and load the odbc package.
